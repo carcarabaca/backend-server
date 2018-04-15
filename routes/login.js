@@ -56,10 +56,6 @@ app.post('/', (req, res) => {
                 id: usuarioDB.id
             });
     });
-
-
-
-
 })
 
 
